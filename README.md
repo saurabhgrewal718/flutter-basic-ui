@@ -1,16 +1,5 @@
 # flutterui
 
-getting hands dirty with flutter UI
+getting hands dirty with flutter UI...basic card screen in flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![the screenshot of app](https://lh3.googleusercontent.com/uC4o65jl6PU3euv0yjQIrtxYS7tr7zhRSQJRlJMtNQCIKZWWybz02BQR03VsvenVVbUb3LMmZqplRiwoNN6F6528J-nGUqWQgDLSc94IeVVo-mu5yFINY0xnDS_CIjhgcPra7O2JQGYG2TyGjf_a2ufxIgjxcj-KJze2firxKEPLTQxLytOp4MfNzSm51SWRiyvtsblZ_sx9_thrXMuY8bsF1MGxagdo_AfBdVuhuWwhS9dEUZOue2o9Y4j33932VmQ9qTCK2U9tflgEDn6XsIo4YBVI1RrydTjFYV9rWVOQ6QWZ_u_2hjA6sDX0FDeVRP5Yqo3gpXap-VF-fslCFCD5opQz0wSUfoPPPZ-WKcyI7NMjrJ7xKWQ4xihFBzok_8xd_Ia1kj2JwUPFFpQ5E-Teq5mgZ0AbGaM5PCZ7LkvEUAo59_bX-GyMAM-ndJDcTOARgyp6zJqofeyoC2UAH8OTEyGMfiNSi2ao370ZMS61Q_b4wnTpjS2REBMq4nE717dt2m5t7231a2X5c3ch6K-uFmYXEFtU0wFQNLqf9jQpztgWYAIWpRXdpOppN2RWVXe-UgcLph3xesuEeYa-DY2uQ15bL63nrOLCOpJlTbr0-SsHFA37yVD9TKMtJbF6ad510ZNhqnU0xV3nJfNEAXhfcO3aimUq_gA1c-LgGfhG6VGpKikXbuO0SDJoFA=w509-h903-no?authuser=0)
